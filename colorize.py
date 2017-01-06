@@ -2,7 +2,7 @@
 # @Author: shubham
 # @Date:   2016-12-05 06:11:54
 # @Last Modified by:   shubham
-# @Last Modified time: 2017-01-07 01:26:19
+# @Last Modified time: 2017-01-07 02:58:39
 
 import sys
 import cv2
@@ -26,6 +26,7 @@ def load_image(path):
 	img = resize(crop_img, (224, 224))
 	# desaturate image
 	return (img[:,:,0] + img[:,:,1] + img[:,:,2]) / 3.0
+	# return img
 
 def model():
 	with open("model/colorize.tfmodel", mode='rb') as f:
@@ -68,7 +69,7 @@ def main():
 			out_img = img_as_ubyte(inferred_batch[0])
 			plot(in_img, out_img)
 			# imsave('output/'+imgPath.split('/')[1], out_img)
-			# print(out_img)
+			print(out_img)
 
 if __name__ == '__main__':
 	main()
