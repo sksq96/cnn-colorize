@@ -20,3 +20,8 @@ This repository contains:
 ./colorize.py [path-to-input]
 ```
 
+## Results
+
+![test_1](https://github.com/cameronfabbri/Colorful-Image-Colorization/blob/master/images/resized/testing/test_3.png?raw=true)
+![test_1](https://github.com/cameronfabbri/Colorful-Image-Colorization/blob/master/images/resized/output/test_3_output.png?raw=true)
+
