@@ -22,6 +22,8 @@ This repository contains:
 
 ## Results
 
+Voila ! The model seems to have learned and developed patterns for some primitive objects. It has learned to color grass -> green, sky -> blue, skin -> brown, water -> blue.
+
 ![](results/black-and-white-africa-animals-wilderness-in.jpg?raw=true)
 ![](results/black-and-white-africa-animals-wilderness-out.jpg?raw=true)
 
