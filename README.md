@@ -22,6 +22,18 @@ This repository contains:
 
 ## Results
 
-![](input/black-and-white-africa-animals-wilderness.jpg?raw=true =224x224)
-![](output/black-and-white-africa-animals-wilderness.jpg?raw=true =224x224)
+![](results/black-and-white-africa-animals-wilderness-in.jpg?raw=true)
+![](results/black-and-white-africa-animals-wilderness-out.jpg?raw=true)
+
+![](results/black-and-white-city-bird-people-in.jpg?raw=true)
+![](results/black-and-white-city-bird-people-out.jpg?raw=true)
+
+![](results/pexels-photo-12087-in.jpg?raw=true)
+![](results/pexels-photo-12087-out.jpg?raw=true)
+
+![](results/pexels-photo-23966-in.jpg?raw=true)
+![](results/pexels-photo-23966-out.jpg?raw=true)
+
+![](results/pexels-photo-26434-in.jpg?raw=true)
+![](results/pexels-photo-26434-out.jpg?raw=true)
 
