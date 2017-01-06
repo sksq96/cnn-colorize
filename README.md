@@ -28,8 +28,8 @@ This repository contains:
 ![](results/black-and-white-city-bird-people-in.jpg?raw=true)
 ![](results/black-and-white-city-bird-people-out.jpg?raw=true)
 
-![](results/pexels-photo-12087-in.jpg?raw=true)
-![](results/pexels-photo-12087-out.jpg?raw=true)
+![](results/pexels-photo-12087-in.jpeg?raw=true)
+![](results/pexels-photo-12087-out.jpeg?raw=true)
 
 ![](results/pexels-photo-23966-in.jpg?raw=true)
 ![](results/pexels-photo-23966-out.jpg?raw=true)
