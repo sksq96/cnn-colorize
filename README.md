@@ -22,6 +22,6 @@ This repository contains:
 
 ## Results
 
-![](input/black-and-white-africa-animals-wilderness.jpg?raw=true =250x)
-![](output/black-and-white-africa-animals-wilderness.jpg?raw=true =250x)
+![](input/black-and-white-africa-animals-wilderness.jpg?raw=true =224x224)
+![](output/black-and-white-africa-animals-wilderness.jpg?raw=true =224x224)
 
