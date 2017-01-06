@@ -22,6 +22,6 @@ This repository contains:
 
 ## Results
 
-![test_1](https://github.com/sksq9/cnn-colorize/blob/master/input/black-and-white-africa-animals-wilderness.jpg?raw=true)
-![test_1](https://github.com/sksq9/cnn-colorize/blob/master/output/black-and-white-africa-animals-wilderness.jpg?raw=true)
+![](input/black-and-white-africa-animals-wilderness.jpg?raw=true =250x)
+![](output/black-and-white-africa-animals-wilderness.jpg?raw=true =250x)
 
