@@ -17,6 +17,6 @@ This repository contains:
 ## Usage
 
 ```
-./colorize.py [input-dir]
+./colorize.py [path-to-input]
 ```
 
