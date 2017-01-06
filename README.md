@@ -43,3 +43,8 @@ Voila ! The model seems to have learned and developed patterns for some primitiv
 ![](results/pexels-photo-26434-in.jpg?raw=true)
 ![](results/pexels-photo-26434-out.jpg?raw=true)
 
+Sources
+-------
+- [Automatic Colorization](http://tinyclouds.org/colorize/)
+- [Hypercolumns for Object Segmentation and Fine-grained Localization](http://arxiv.org/pdf/1411.5752v2.pdf)
+
